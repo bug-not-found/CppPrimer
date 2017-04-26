@@ -8,6 +8,7 @@
 //  @Brief  Test your function by calling it, passing cin as an argument
 
 #include <iostream>
+#include<string>
 using std::istream;
 
 istream& func(istream& is)
